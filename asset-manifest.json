@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.981f7211.chunk.css",
-    "main.js": "/static/js/main.c850897e.chunk.js",
-    "main.js.map": "/static/js/main.c850897e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d3a1ec8b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d3a1ec8b.js.map",
-    "static/css/2.3e9c613c.chunk.css": "/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.99699630.chunk.js": "/static/js/2.99699630.chunk.js",
-    "static/js/2.99699630.chunk.js.map": "/static/js/2.99699630.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.109c18b272bacff3427e38fbef79e78a.js": "/precache-manifest.109c18b272bacff3427e38fbef79e78a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3e9c613c.chunk.css.map": "/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/static/media/persik.4e1ec840.png"
+    "main.css": "/mika-yan/teeeesst.git/static/css/main.981f7211.chunk.css",
+    "main.js": "/mika-yan/teeeesst.git/static/js/main.c850897e.chunk.js",
+    "main.js.map": "/mika-yan/teeeesst.git/static/js/main.c850897e.chunk.js.map",
+    "runtime-main.js": "/mika-yan/teeeesst.git/static/js/runtime-main.7103a2dc.js",
+    "runtime-main.js.map": "/mika-yan/teeeesst.git/static/js/runtime-main.7103a2dc.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/mika-yan/teeeesst.git/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.8de8e8b6.chunk.js": "/mika-yan/teeeesst.git/static/js/2.8de8e8b6.chunk.js",
+    "static/js/2.8de8e8b6.chunk.js.map": "/mika-yan/teeeesst.git/static/js/2.8de8e8b6.chunk.js.map",
+    "index.html": "/mika-yan/teeeesst.git/index.html",
+    "precache-manifest.4e83287edd6d25b941b265e772aa2867.js": "/mika-yan/teeeesst.git/precache-manifest.4e83287edd6d25b941b265e772aa2867.js",
+    "service-worker.js": "/mika-yan/teeeesst.git/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/mika-yan/teeeesst.git/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/mika-yan/teeeesst.git/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/mika-yan/teeeesst.git/static/media/persik.4e1ec840.png"
   }
 }
