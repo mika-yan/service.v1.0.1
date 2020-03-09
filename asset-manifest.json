@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/saitversia1/static/css/main.4bd95811.chunk.css",
-    "main.js": "/saitversia1/static/js/main.64677527.chunk.js",
-    "main.js.map": "/saitversia1/static/js/main.64677527.chunk.js.map",
-    "runtime-main.js": "/saitversia1/static/js/runtime-main.b8cb70a2.js",
-    "runtime-main.js.map": "/saitversia1/static/js/runtime-main.b8cb70a2.js.map",
-    "static/css/2.3e9c613c.chunk.css": "/saitversia1/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.d053b3e4.chunk.js": "/saitversia1/static/js/2.d053b3e4.chunk.js",
-    "static/js/2.d053b3e4.chunk.js.map": "/saitversia1/static/js/2.d053b3e4.chunk.js.map",
-    "index.html": "/saitversia1/index.html",
-    "precache-manifest.62d36cb0b9ca1b18925aad174c1eab23.js": "/saitversia1/precache-manifest.62d36cb0b9ca1b18925aad174c1eab23.js",
-    "service-worker.js": "/saitversia1/service-worker.js",
-    "static/css/2.3e9c613c.chunk.css.map": "/saitversia1/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.4bd95811.chunk.css.map": "/saitversia1/static/css/main.4bd95811.chunk.css.map",
-    "static/media/persik.png": "/saitversia1/static/media/persik.4e1ec840.png"
+    "main.css": "/services.v.1.0.1/static/css/main.4bd95811.chunk.css",
+    "main.js": "/services.v.1.0.1/static/js/main.3d096ebf.chunk.js",
+    "main.js.map": "/services.v.1.0.1/static/js/main.3d096ebf.chunk.js.map",
+    "runtime-main.js": "/services.v.1.0.1/static/js/runtime-main.3819fe48.js",
+    "runtime-main.js.map": "/services.v.1.0.1/static/js/runtime-main.3819fe48.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/services.v.1.0.1/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.0e9f2477.chunk.js": "/services.v.1.0.1/static/js/2.0e9f2477.chunk.js",
+    "static/js/2.0e9f2477.chunk.js.map": "/services.v.1.0.1/static/js/2.0e9f2477.chunk.js.map",
+    "index.html": "/services.v.1.0.1/index.html",
+    "precache-manifest.60562b6ed38216c776be468ca38a7761.js": "/services.v.1.0.1/precache-manifest.60562b6ed38216c776be468ca38a7761.js",
+    "service-worker.js": "/services.v.1.0.1/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/services.v.1.0.1/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.4bd95811.chunk.css.map": "/services.v.1.0.1/static/css/main.4bd95811.chunk.css.map",
+    "static/media/persik.png": "/services.v.1.0.1/static/media/persik.4e1ec840.png"
   }
 }
