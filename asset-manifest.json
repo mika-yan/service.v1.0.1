@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/services.v.1.0.1/static/css/main.4bd95811.chunk.css",
-    "main.js": "/services.v.1.0.1/static/js/main.3d096ebf.chunk.js",
-    "main.js.map": "/services.v.1.0.1/static/js/main.3d096ebf.chunk.js.map",
-    "runtime-main.js": "/services.v.1.0.1/static/js/runtime-main.3819fe48.js",
-    "runtime-main.js.map": "/services.v.1.0.1/static/js/runtime-main.3819fe48.js.map",
-    "static/css/2.3e9c613c.chunk.css": "/services.v.1.0.1/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.0e9f2477.chunk.js": "/services.v.1.0.1/static/js/2.0e9f2477.chunk.js",
-    "static/js/2.0e9f2477.chunk.js.map": "/services.v.1.0.1/static/js/2.0e9f2477.chunk.js.map",
-    "index.html": "/services.v.1.0.1/index.html",
-    "precache-manifest.60562b6ed38216c776be468ca38a7761.js": "/services.v.1.0.1/precache-manifest.60562b6ed38216c776be468ca38a7761.js",
-    "service-worker.js": "/services.v.1.0.1/service-worker.js",
-    "static/css/2.3e9c613c.chunk.css.map": "/services.v.1.0.1/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.4bd95811.chunk.css.map": "/services.v.1.0.1/static/css/main.4bd95811.chunk.css.map",
-    "static/media/persik.png": "/services.v.1.0.1/static/media/persik.4e1ec840.png"
+    "main.css": "/services.v.1.0.2/static/css/main.4bd95811.chunk.css",
+    "main.js": "/services.v.1.0.2/static/js/main.3d096ebf.chunk.js",
+    "main.js.map": "/services.v.1.0.2/static/js/main.3d096ebf.chunk.js.map",
+    "runtime-main.js": "/services.v.1.0.2/static/js/runtime-main.388cb8a8.js",
+    "runtime-main.js.map": "/services.v.1.0.2/static/js/runtime-main.388cb8a8.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/services.v.1.0.2/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.cc994d2c.chunk.js": "/services.v.1.0.2/static/js/2.cc994d2c.chunk.js",
+    "static/js/2.cc994d2c.chunk.js.map": "/services.v.1.0.2/static/js/2.cc994d2c.chunk.js.map",
+    "index.html": "/services.v.1.0.2/index.html",
+    "precache-manifest.2937e3e11c35a192f689dc2d9736f1f2.js": "/services.v.1.0.2/precache-manifest.2937e3e11c35a192f689dc2d9736f1f2.js",
+    "service-worker.js": "/services.v.1.0.2/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/services.v.1.0.2/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.4bd95811.chunk.css.map": "/services.v.1.0.2/static/css/main.4bd95811.chunk.css.map",
+    "static/media/persik.png": "/services.v.1.0.2/static/media/persik.4e1ec840.png"
   }
 }
