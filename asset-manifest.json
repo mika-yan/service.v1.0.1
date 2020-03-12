@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mika-yan/services-test-0.0.1.git/static/css/main.4bd95811.chunk.css",
-    "main.js": "/mika-yan/services-test-0.0.1.git/static/js/main.64677527.chunk.js",
-    "main.js.map": "/mika-yan/services-test-0.0.1.git/static/js/main.64677527.chunk.js.map",
-    "runtime-main.js": "/mika-yan/services-test-0.0.1.git/static/js/runtime-main.ca90649a.js",
-    "runtime-main.js.map": "/mika-yan/services-test-0.0.1.git/static/js/runtime-main.ca90649a.js.map",
-    "static/css/2.3e9c613c.chunk.css": "/mika-yan/services-test-0.0.1.git/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.078f6408.chunk.js": "/mika-yan/services-test-0.0.1.git/static/js/2.078f6408.chunk.js",
-    "static/js/2.078f6408.chunk.js.map": "/mika-yan/services-test-0.0.1.git/static/js/2.078f6408.chunk.js.map",
-    "index.html": "/mika-yan/services-test-0.0.1.git/index.html",
-    "precache-manifest.f8577346ba9b3c3d9a93f0e4e54da794.js": "/mika-yan/services-test-0.0.1.git/precache-manifest.f8577346ba9b3c3d9a93f0e4e54da794.js",
-    "service-worker.js": "/mika-yan/services-test-0.0.1.git/service-worker.js",
-    "static/css/2.3e9c613c.chunk.css.map": "/mika-yan/services-test-0.0.1.git/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.4bd95811.chunk.css.map": "/mika-yan/services-test-0.0.1.git/static/css/main.4bd95811.chunk.css.map",
-    "static/media/persik.png": "/mika-yan/services-test-0.0.1.git/static/media/persik.4e1ec840.png"
+    "main.css": "/services-test-0.0.1/static/css/main.4bd95811.chunk.css",
+    "main.js": "/services-test-0.0.1/static/js/main.64677527.chunk.js",
+    "main.js.map": "/services-test-0.0.1/static/js/main.64677527.chunk.js.map",
+    "runtime-main.js": "/services-test-0.0.1/static/js/runtime-main.6cf2de54.js",
+    "runtime-main.js.map": "/services-test-0.0.1/static/js/runtime-main.6cf2de54.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/services-test-0.0.1/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.c591dec6.chunk.js": "/services-test-0.0.1/static/js/2.c591dec6.chunk.js",
+    "static/js/2.c591dec6.chunk.js.map": "/services-test-0.0.1/static/js/2.c591dec6.chunk.js.map",
+    "index.html": "/services-test-0.0.1/index.html",
+    "precache-manifest.ec788b0459232d1921e2c3271d047bb2.js": "/services-test-0.0.1/precache-manifest.ec788b0459232d1921e2c3271d047bb2.js",
+    "service-worker.js": "/services-test-0.0.1/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/services-test-0.0.1/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.4bd95811.chunk.css.map": "/services-test-0.0.1/static/css/main.4bd95811.chunk.css.map",
+    "static/media/persik.png": "/services-test-0.0.1/static/media/persik.4e1ec840.png"
   }
 }
