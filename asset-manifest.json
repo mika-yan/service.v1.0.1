@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/services-test-0.0.1/static/css/main.4bd95811.chunk.css",
-    "main.js": "/services-test-0.0.1/static/js/main.64677527.chunk.js",
-    "main.js.map": "/services-test-0.0.1/static/js/main.64677527.chunk.js.map",
-    "runtime-main.js": "/services-test-0.0.1/static/js/runtime-main.6cf2de54.js",
-    "runtime-main.js.map": "/services-test-0.0.1/static/js/runtime-main.6cf2de54.js.map",
-    "static/css/2.3e9c613c.chunk.css": "/services-test-0.0.1/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.c591dec6.chunk.js": "/services-test-0.0.1/static/js/2.c591dec6.chunk.js",
-    "static/js/2.c591dec6.chunk.js.map": "/services-test-0.0.1/static/js/2.c591dec6.chunk.js.map",
-    "index.html": "/services-test-0.0.1/index.html",
-    "precache-manifest.ec788b0459232d1921e2c3271d047bb2.js": "/services-test-0.0.1/precache-manifest.ec788b0459232d1921e2c3271d047bb2.js",
-    "service-worker.js": "/services-test-0.0.1/service-worker.js",
-    "static/css/2.3e9c613c.chunk.css.map": "/services-test-0.0.1/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.4bd95811.chunk.css.map": "/services-test-0.0.1/static/css/main.4bd95811.chunk.css.map",
-    "static/media/persik.png": "/services-test-0.0.1/static/media/persik.4e1ec840.png"
+    "main.css": "/saites/static/css/main.4bd95811.chunk.css",
+    "main.js": "/saites/static/js/main.df16c0cc.chunk.js",
+    "main.js.map": "/saites/static/js/main.df16c0cc.chunk.js.map",
+    "runtime-main.js": "/saites/static/js/runtime-main.9db23521.js",
+    "runtime-main.js.map": "/saites/static/js/runtime-main.9db23521.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/saites/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.d512b114.chunk.js": "/saites/static/js/2.d512b114.chunk.js",
+    "static/js/2.d512b114.chunk.js.map": "/saites/static/js/2.d512b114.chunk.js.map",
+    "index.html": "/saites/index.html",
+    "precache-manifest.7702b2f803c02ca00e895d14c93ddff8.js": "/saites/precache-manifest.7702b2f803c02ca00e895d14c93ddff8.js",
+    "service-worker.js": "/saites/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/saites/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.4bd95811.chunk.css.map": "/saites/static/css/main.4bd95811.chunk.css.map",
+    "static/media/persik.png": "/saites/static/media/persik.4e1ec840.png"
   }
 }
