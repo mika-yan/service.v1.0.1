@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/service.v1.0.1/static/css/main.4bd95811.chunk.css",
-    "main.js": "/service.v1.0.1/static/js/main.7f759a60.chunk.js",
-    "main.js.map": "/service.v1.0.1/static/js/main.7f759a60.chunk.js.map",
-    "runtime-main.js": "/service.v1.0.1/static/js/runtime-main.f4540f12.js",
-    "runtime-main.js.map": "/service.v1.0.1/static/js/runtime-main.f4540f12.js.map",
-    "static/css/2.3e9c613c.chunk.css": "/service.v1.0.1/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.7c1b0228.chunk.js": "/service.v1.0.1/static/js/2.7c1b0228.chunk.js",
-    "static/js/2.7c1b0228.chunk.js.map": "/service.v1.0.1/static/js/2.7c1b0228.chunk.js.map",
-    "index.html": "/service.v1.0.1/index.html",
-    "precache-manifest.278a5629aaf50dd9396aa4ab9b258af9.js": "/service.v1.0.1/precache-manifest.278a5629aaf50dd9396aa4ab9b258af9.js",
-    "service-worker.js": "/service.v1.0.1/service-worker.js",
-    "static/css/2.3e9c613c.chunk.css.map": "/service.v1.0.1/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.4bd95811.chunk.css.map": "/service.v1.0.1/static/css/main.4bd95811.chunk.css.map",
-    "static/media/persik.png": "/service.v1.0.1/static/media/persik.4e1ec840.png"
+    "main.css": "/hayastan-/static/css/main.4bd95811.chunk.css",
+    "main.js": "/hayastan-/static/js/main.7f759a60.chunk.js",
+    "main.js.map": "/hayastan-/static/js/main.7f759a60.chunk.js.map",
+    "runtime-main.js": "/hayastan-/static/js/runtime-main.d7244ff5.js",
+    "runtime-main.js.map": "/hayastan-/static/js/runtime-main.d7244ff5.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/hayastan-/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.fcc94ea0.chunk.js": "/hayastan-/static/js/2.fcc94ea0.chunk.js",
+    "static/js/2.fcc94ea0.chunk.js.map": "/hayastan-/static/js/2.fcc94ea0.chunk.js.map",
+    "index.html": "/hayastan-/index.html",
+    "precache-manifest.7a734e891d4f27f0a515ded8c25ac591.js": "/hayastan-/precache-manifest.7a734e891d4f27f0a515ded8c25ac591.js",
+    "service-worker.js": "/hayastan-/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/hayastan-/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.4bd95811.chunk.css.map": "/hayastan-/static/css/main.4bd95811.chunk.css.map",
+    "static/media/persik.png": "/hayastan-/static/media/persik.4e1ec840.png"
   }
 }
