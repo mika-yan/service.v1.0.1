@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hayastan-/precache-manifest.1fd1c9d6b1974207658ea655d5836167.js"
+  "/hayastan-/precache-manifest.889c79149461396a81ebbe0567f7f076.js"
 );
 
 self.addEventListener('message', (event) => {
