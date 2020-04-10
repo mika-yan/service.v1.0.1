@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/armenia1915/static/css/main.3e0ef417.chunk.css",
-    "main.js": "/armenia1915/static/js/main.584f8762.chunk.js",
-    "main.js.map": "/armenia1915/static/js/main.584f8762.chunk.js.map",
-    "runtime-main.js": "/armenia1915/static/js/runtime-main.1701178c.js",
-    "runtime-main.js.map": "/armenia1915/static/js/runtime-main.1701178c.js.map",
+    "main.css": "/armenia1915/static/css/main.a908704d.chunk.css",
+    "main.js": "/armenia1915/static/js/main.26e7dc19.chunk.js",
+    "main.js.map": "/armenia1915/static/js/main.26e7dc19.chunk.js.map",
+    "runtime-main.js": "/armenia1915/static/js/runtime-main.017c5ccc.js",
+    "runtime-main.js.map": "/armenia1915/static/js/runtime-main.017c5ccc.js.map",
     "static/css/2.3e9c613c.chunk.css": "/armenia1915/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.16bb8be3.chunk.js": "/armenia1915/static/js/2.16bb8be3.chunk.js",
-    "static/js/2.16bb8be3.chunk.js.map": "/armenia1915/static/js/2.16bb8be3.chunk.js.map",
+    "static/js/2.2b19b368.chunk.js": "/armenia1915/static/js/2.2b19b368.chunk.js",
+    "static/js/2.2b19b368.chunk.js.map": "/armenia1915/static/js/2.2b19b368.chunk.js.map",
     "index.html": "/armenia1915/index.html",
-    "precache-manifest.45496f6e45547ae0c0fa65dae35465d5.js": "/armenia1915/precache-manifest.45496f6e45547ae0c0fa65dae35465d5.js",
+    "precache-manifest.98255b86a342d38bfa8fed92ff42ac4f.js": "/armenia1915/precache-manifest.98255b86a342d38bfa8fed92ff42ac4f.js",
     "service-worker.js": "/armenia1915/service-worker.js",
     "static/css/2.3e9c613c.chunk.css.map": "/armenia1915/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.3e0ef417.chunk.css.map": "/armenia1915/static/css/main.3e0ef417.chunk.css.map",
+    "static/css/main.a908704d.chunk.css.map": "/armenia1915/static/css/main.a908704d.chunk.css.map",
     "static/media/persik.png": "/armenia1915/static/media/persik.4e1ec840.png"
   }
 }
