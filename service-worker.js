@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/armenia1915/precache-manifest.d7f4232d41c21422ebd96e6bcf24e659.js"
+  "/armenia1915/precache-manifest.5f758548cc3e591db0144a6972439989.js"
 );
 
 self.addEventListener('message', (event) => {
