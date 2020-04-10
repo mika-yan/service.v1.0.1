@@ -1,0 +1,1 @@
+{"version":3,"sources":["Persik.css"],"names":[],"mappings":"AAAA,EACE,eACF,CACA,MACE,0CAA0C,CAC1C,iBACF,CAEA,GACE,QAAQ,CACR,SAAS,CACT,UAEF","file":"main.6a32c20e.chunk.css","sourcesContent":["*{\n  background: black;\n}\n.text{\n  background:linear-gradient(45deg,red,blue); \n  text-align: center;\n}\n \nh3{\n  margin:0;\n  padding:0;\n  color: white;\n  \n}\n\n\n\n\n\n"]}
