@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/service.v1.0.1/static/css/main.6a32c20e.chunk.css",
-    "main.js": "/service.v1.0.1/static/js/main.fc29fd8a.chunk.js",
-    "main.js.map": "/service.v1.0.1/static/js/main.fc29fd8a.chunk.js.map",
-    "runtime-main.js": "/service.v1.0.1/static/js/runtime-main.f4540f12.js",
-    "runtime-main.js.map": "/service.v1.0.1/static/js/runtime-main.f4540f12.js.map",
-    "static/css/2.3e9c613c.chunk.css": "/service.v1.0.1/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.7c1b0228.chunk.js": "/service.v1.0.1/static/js/2.7c1b0228.chunk.js",
-    "static/js/2.7c1b0228.chunk.js.map": "/service.v1.0.1/static/js/2.7c1b0228.chunk.js.map",
-    "index.html": "/service.v1.0.1/index.html",
-    "precache-manifest.93fd9315e7a7035648cf550f66a83ce4.js": "/service.v1.0.1/precache-manifest.93fd9315e7a7035648cf550f66a83ce4.js",
-    "service-worker.js": "/service.v1.0.1/service-worker.js",
-    "static/css/2.3e9c613c.chunk.css.map": "/service.v1.0.1/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.6a32c20e.chunk.css.map": "/service.v1.0.1/static/css/main.6a32c20e.chunk.css.map",
-    "static/media/persik.png": "/service.v1.0.1/static/media/persik.4e1ec840.png"
+    "main.css": "/armenia1915/static/css/main.2e5c22d7.chunk.css",
+    "main.js": "/armenia1915/static/js/main.38874d2e.chunk.js",
+    "main.js.map": "/armenia1915/static/js/main.38874d2e.chunk.js.map",
+    "runtime-main.js": "/armenia1915/static/js/runtime-main.1701178c.js",
+    "runtime-main.js.map": "/armenia1915/static/js/runtime-main.1701178c.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/armenia1915/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.16bb8be3.chunk.js": "/armenia1915/static/js/2.16bb8be3.chunk.js",
+    "static/js/2.16bb8be3.chunk.js.map": "/armenia1915/static/js/2.16bb8be3.chunk.js.map",
+    "index.html": "/armenia1915/index.html",
+    "precache-manifest.a8d737c92fda2c577f15e8b1a52265cb.js": "/armenia1915/precache-manifest.a8d737c92fda2c577f15e8b1a52265cb.js",
+    "service-worker.js": "/armenia1915/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/armenia1915/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.2e5c22d7.chunk.css.map": "/armenia1915/static/css/main.2e5c22d7.chunk.css.map",
+    "static/media/persik.png": "/armenia1915/static/media/persik.4e1ec840.png"
   }
 }
