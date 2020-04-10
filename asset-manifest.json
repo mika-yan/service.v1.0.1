@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/armenia1915/static/css/main.51d68586.chunk.css",
-    "main.js": "/armenia1915/static/js/main.e9572329.chunk.js",
-    "main.js.map": "/armenia1915/static/js/main.e9572329.chunk.js.map",
-    "runtime-main.js": "/armenia1915/static/js/runtime-main.017c5ccc.js",
-    "runtime-main.js.map": "/armenia1915/static/js/runtime-main.017c5ccc.js.map",
-    "static/css/2.3e9c613c.chunk.css": "/armenia1915/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.2b19b368.chunk.js": "/armenia1915/static/js/2.2b19b368.chunk.js",
-    "static/js/2.2b19b368.chunk.js.map": "/armenia1915/static/js/2.2b19b368.chunk.js.map",
-    "index.html": "/armenia1915/index.html",
-    "precache-manifest.9f1d69acb207c2bbe6f600f7ef13cd91.js": "/armenia1915/precache-manifest.9f1d69acb207c2bbe6f600f7ef13cd91.js",
-    "service-worker.js": "/armenia1915/service-worker.js",
-    "static/css/2.3e9c613c.chunk.css.map": "/armenia1915/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.51d68586.chunk.css.map": "/armenia1915/static/css/main.51d68586.chunk.css.map",
-    "static/media/persik.png": "/armenia1915/static/media/persik.4e1ec840.png"
+    "main.css": "/services.v1.0.1/static/css/main.51d68586.chunk.css",
+    "main.js": "/services.v1.0.1/static/js/main.e9572329.chunk.js",
+    "main.js.map": "/services.v1.0.1/static/js/main.e9572329.chunk.js.map",
+    "runtime-main.js": "/services.v1.0.1/static/js/runtime-main.f1c64d1c.js",
+    "runtime-main.js.map": "/services.v1.0.1/static/js/runtime-main.f1c64d1c.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/services.v1.0.1/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.2f3afbb6.chunk.js": "/services.v1.0.1/static/js/2.2f3afbb6.chunk.js",
+    "static/js/2.2f3afbb6.chunk.js.map": "/services.v1.0.1/static/js/2.2f3afbb6.chunk.js.map",
+    "index.html": "/services.v1.0.1/index.html",
+    "precache-manifest.0308418a5e01aa4b03c63cdc25db752b.js": "/services.v1.0.1/precache-manifest.0308418a5e01aa4b03c63cdc25db752b.js",
+    "service-worker.js": "/services.v1.0.1/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/services.v1.0.1/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.51d68586.chunk.css.map": "/services.v1.0.1/static/css/main.51d68586.chunk.css.map",
+    "static/media/persik.png": "/services.v1.0.1/static/media/persik.4e1ec840.png"
   }
 }
