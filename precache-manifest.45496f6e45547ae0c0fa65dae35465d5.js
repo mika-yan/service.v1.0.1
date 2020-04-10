@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8a736d700b3ea225ddd8b2084705eb6",
+    "revision": "b607a47aef370b1c1af37c193e2e145f",
     "url": "/armenia1915/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/armenia1915/static/css/2.3e9c613c.chunk.css"
   },
   {
-    "revision": "87d8e7de4476973b20e6",
-    "url": "/armenia1915/static/css/main.2e633f91.chunk.css"
+    "revision": "04125393989ef5d5e121",
+    "url": "/armenia1915/static/css/main.3e0ef417.chunk.css"
   },
   {
     "revision": "c4c08978ed4d51e9fa05",
     "url": "/armenia1915/static/js/2.16bb8be3.chunk.js"
   },
   {
-    "revision": "87d8e7de4476973b20e6",
+    "revision": "04125393989ef5d5e121",
     "url": "/armenia1915/static/js/main.584f8762.chunk.js"
   },
   {

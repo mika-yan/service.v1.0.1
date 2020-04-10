@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/armenia1915/static/css/main.2e633f91.chunk.css",
+    "main.css": "/armenia1915/static/css/main.3e0ef417.chunk.css",
     "main.js": "/armenia1915/static/js/main.584f8762.chunk.js",
     "main.js.map": "/armenia1915/static/js/main.584f8762.chunk.js.map",
     "runtime-main.js": "/armenia1915/static/js/runtime-main.1701178c.js",
@@ -9,10 +9,10 @@
     "static/js/2.16bb8be3.chunk.js": "/armenia1915/static/js/2.16bb8be3.chunk.js",
     "static/js/2.16bb8be3.chunk.js.map": "/armenia1915/static/js/2.16bb8be3.chunk.js.map",
     "index.html": "/armenia1915/index.html",
-    "precache-manifest.5f758548cc3e591db0144a6972439989.js": "/armenia1915/precache-manifest.5f758548cc3e591db0144a6972439989.js",
+    "precache-manifest.45496f6e45547ae0c0fa65dae35465d5.js": "/armenia1915/precache-manifest.45496f6e45547ae0c0fa65dae35465d5.js",
     "service-worker.js": "/armenia1915/service-worker.js",
     "static/css/2.3e9c613c.chunk.css.map": "/armenia1915/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.2e633f91.chunk.css.map": "/armenia1915/static/css/main.2e633f91.chunk.css.map",
+    "static/css/main.3e0ef417.chunk.css.map": "/armenia1915/static/css/main.3e0ef417.chunk.css.map",
     "static/media/persik.png": "/armenia1915/static/media/persik.4e1ec840.png"
   }
 }
